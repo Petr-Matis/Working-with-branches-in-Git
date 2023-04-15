@@ -4,4 +4,5 @@ def capital_letters(values):
 
 
 def upper_case(values):
+    """Переводит все буквы в верхний регистр"""
     return values.upper()
